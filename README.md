@@ -21,7 +21,7 @@ This project created a visual report to compare the performance of BBRI, BMRI an
 ## 📁 Project Structure
 
 ```
-idx-bank-stock-visual-report/
+stock-visual-report/
 ├── README.md
 ├── requirements.txt
 ├── main.py
@@ -33,7 +33,7 @@ idx-bank-stock-visual-report/
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/username/idx-bank-stock-visual-report.git
+   git clone https://github.com/AfifArdian/stock-visual-report.git
    ```
 2. Install library
    ```bash
